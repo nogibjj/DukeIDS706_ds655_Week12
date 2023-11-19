@@ -1,4 +1,18 @@
-# This is a default Python repository [![Python CI](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml/badge.svg)](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml)
+# Machine Learning Model Lifecycle using MLFlow
+
+
+MLflow is an open source platform for managing the end-to-end machine learning lifecycle. It helps data scientists and ML engineers track and version experiments, package code into reproducible runs, deploy models to production, and monitor performance.
+
+Key capabilities:
+* *MLflow Tracking*: Logs parameters, code versions, metrics, and artifacts during model training and validation. This enables you to visualize and compare runs.
+* *MLflow Projects*: Packages code and configurations so you can reproduce runs on any platform. Runs can be local or on remote compute clusters.
+* *MLflow Models*: Helps deploy machine learning models on diverse serving platforms like TensorFlow, PyTorch, and SageMaker. Has model versioning and stage transitions like staging, production.
+* *Model Registry*: Centralized model store to collaboratively manage models and their lifecycle. Integrates with other MLflow components.
+* *MLflow UI*: Visualize, compare and search runs, models, artifacts, etc through a user interface.
+
+In summary, MLflow provides end-to-end capabilities to efficiently develop, test, deploy and monitor machine learning models and experiments. It is an essential toolkit for machine learning teams.
+
+#
 
 Files in this repository include:
 
