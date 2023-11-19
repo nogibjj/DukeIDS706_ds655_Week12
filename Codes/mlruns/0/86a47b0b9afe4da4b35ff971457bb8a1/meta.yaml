@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/DukeIDS706_ds655_Week12/Codes/mlruns/0/86a47b0b9afe4da4b35ff971457bb8a1/artifacts
+end_time: 1700359773956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86a47b0b9afe4da4b35ff971457bb8a1
+run_name: indecisive-vole-457
+run_uuid: 86a47b0b9afe4da4b35ff971457bb8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700359769884
+status: 3
+tags: []
+user_id: vscode
